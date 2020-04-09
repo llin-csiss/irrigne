@@ -1,8 +1,8 @@
-# irrigne
+# Name: irrigne
 
 # Specific Irrigation Ontology for the experimentation in Nebraska, USA
 
-# Name: irrig
+
 
 URL:
 Link to:
